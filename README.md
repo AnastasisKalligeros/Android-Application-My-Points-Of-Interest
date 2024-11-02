@@ -1,1 +1,1 @@
-# Android-Application-MyPOIs--My-Points-Of-Interest-
+# Android-Application-My-Points-Of-Interest
