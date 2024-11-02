@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPOIs</string>
+    <string-array name="locations">
+        <item>Sport</item>
+        <item>Study</item>
+        <item>Board games</item>
+        <item>Art</item>
+    </string-array>
+</resources>
